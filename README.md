@@ -27,8 +27,8 @@ It will run Server at **5000 Port**
 
 ***
 **Note**
-* Before Perform Above Task User Need create Following Step:
-* 1. create **config** in root dir.
+* Before Perform Above Task User Need Perform Following Step:
+* 1. create **config** folder in root dir.
 * 2. create dev.env file in config folder
 * 3. export object with **PORT** and **DB**(Here DB is Nothing but Atlas Database Connection URL)
 
