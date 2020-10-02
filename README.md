@@ -38,6 +38,6 @@ It will run Server at **5000 Port**
 
 module.exports = {
     PORT:5000,
-    DB:\<Atlash_Connection_URL>
+    DB:\<Atlas_Connection_URL>
 }
 
